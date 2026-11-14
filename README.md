@@ -2,6 +2,8 @@
 
 Materials from the Society for Neuroscience annual meeting, organized by conference year.
 
+Founded in 1969 to unite researchers across the emerging interdisciplinary field of neuroscience, the [Society for Neuroscience](https://www.sfn.org/about/history-of-sfn/1969-2019/timeline) held its first Annual Meeting in Washington, D.C., in 1971, bringing together 1,396 attendees and 269 abstracts. Since then, the conference—now known as *Neuroscience*—has grown into a major international forum where scientists, clinicians, educators, and trainees share discoveries about the brain and nervous system, build collaborations, and connect neuroscience research with education, advocacy, and public engagement.
+
 ## Years
 
 - [2025](2025/) — placeholder for Neuroscience 2025 materials

@@ -4,7 +4,7 @@ Founded in 1969 to unite researchers across the emerging interdisciplinary field
 
 ## Years
 
-- [2025](2025/) — placeholder for Neuroscience 2025 materials
+- [2025](2025/) — presentation and poster abstracts
 - [2026](2026/) — presentation and poster abstracts
 - [2027](2027/) — placeholder for Neuroscience 2027 materials
 

@@ -1,0 +1,10 @@
+{
+  "output": "SfN-2025-All-Abstracts.pdf",
+  "source_pdf_count": 22,
+  "total_pages": 11746,
+  "bytes": 101557027,
+  "sha256": "607f91ea65af1232d8a653eba093bba1fa285665641f854d3cdd2d6d8ecc3fb3",
+  "bookmarked": true,
+  "compression": "Ghostscript pdfwrite /ebook; verified page count and outline entries",
+  "source_page": "https://www.sfn.org/meetings/neuroscience-2025/call-for-abstracts/neuroscience-2025-abstracts"
+}
